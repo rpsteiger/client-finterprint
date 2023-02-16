@@ -34,4 +34,8 @@ app.post("/fp-submit", (req, res, _) => {
   res.sendStatus(200);
 });
 
+app.use((req, res, _) => {
+  res.render("welcome");
+});
+
 app.listen(3000);
