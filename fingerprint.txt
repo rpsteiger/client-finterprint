@@ -1,0 +1,108 @@
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+Client browser fingerprint: 5b0aedea8e79bef9e0f2856917942601Time to calculate the fingerprint: 43msuser_agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0<br />language = en<br />color_depth = 24<br />pixel_ratio = 1<br />hardware_concurrency = 2<br />resolution = 1920,1200<br />available_resolution = 1920,1200<br />timezone_offset = -60<br />session_storage = 1<br />local_storage = 1<br />indexed_db = 1<br />cpu_class = unknown<br />navigator_platform = MacIntel<br />do_not_track = 1<br />regular_plugins = PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,Chrome PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,C<br />canvas = canvas winding:yes~canvas fp:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAADICAYAAACwGnoBAAAgAElEQVR4XuydeXwV1dnHn3OXbISEQFjCGnZkX0RcqIq1dtHWthb<br />webgl = data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAANXElEQVR4Xu2dXWhtRxXH9ySRPhRRH4pouWDBUqT4UUWpiJDoQxEFFRERBREVFBSRCgpVko2i0IcqKCgo<br />adblock = false<br />has_lied_languages = false<br />has_lied_resolution = false<br />has_lied_os = false<br />has_lied_browser = false<br />touch_support = 0,false,false<br />js_fonts = Andale Mono,Arial,Arial Black,Arial Hebrew,Arial Narrow,Arial Rounded MT Bold,Arial Unicode MS,Comic Sans MS,Courier,Courier New,Geneva,Georgia,Helvet<br />---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+Client browser fingerprint: 5b0aedea8e79bef9e0f2856917942601Time to calculate the fingerprint: 42msuser_agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0<br />language = en<br />color_depth = 24<br />pixel_ratio = 1<br />hardware_concurrency = 2<br />resolution = 1920,1200<br />available_resolution = 1920,1200<br />timezone_offset = -60<br />session_storage = 1<br />local_storage = 1<br />indexed_db = 1<br />cpu_class = unknown<br />navigator_platform = MacIntel<br />do_not_track = 1<br />regular_plugins = PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,Chrome PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,C<br />canvas = canvas winding:yes~canvas fp:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAADICAYAAACwGnoBAAAgAElEQVR4XuydeXwV1dnHn3OXbISEQFjCGnZkX0RcqIq1dtHWthb<br />webgl = data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAANXElEQVR4Xu2dXWhtRxXH9ySRPhRRH4pouWDBUqT4UUWpiJDoQxEFFRERBREVFBSRCgpVko2i0IcqKCgo<br />adblock = false<br />has_lied_languages = false<br />has_lied_resolution = false<br />has_lied_os = false<br />has_lied_browser = false<br />touch_support = 0,false,false<br />js_fonts = Andale Mono,Arial,Arial Black,Arial Hebrew,Arial Narrow,Arial Rounded MT Bold,Arial Unicode MS,Comic Sans MS,Courier,Courier New,Geneva,Georgia,Helvet<br />---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+Client browser fingerprint: 5b0aedea8e79bef9e0f2856917942601Time to calculate the fingerprint: 43msuser_agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0
+language = en<br />color_depth = 24<br />pixel_ratio = 1<br />hardware_concurrency = 2<br />resolution = 1920,1200<br />available_resolution = 1920,1200<br />timezone_offset = -60<br />session_storage = 1<br />local_storage = 1<br />indexed_db = 1<br />cpu_class = unknown<br />navigator_platform = MacIntel<br />do_not_track = 1<br />regular_plugins = PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,Chrome PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,C<br />canvas = canvas winding:yes~canvas fp:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAADICAYAAACwGnoBAAAgAElEQVR4XuydeXwV1dnHn3OXbISEQFjCGnZkX0RcqIq1dtHWthb<br />webgl = data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAANXElEQVR4Xu2dXWhtRxXH9ySRPhRRH4pouWDBUqT4UUWpiJDoQxEFFRERBREVFBSRCgpVko2i0IcqKCgo<br />adblock = false<br />has_lied_languages = false<br />has_lied_resolution = false<br />has_lied_os = false<br />has_lied_browser = false<br />touch_support = 0,false,false<br />js_fonts = Andale Mono,Arial,Arial Black,Arial Hebrew,Arial Narrow,Arial Rounded MT Bold,Arial Unicode MS,Comic Sans MS,Courier,Courier New,Geneva,Georgia,Helvet<br />---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+Client browser fingerprint: 5b0aedea8e79bef9e0f2856917942601Time to calculate the fingerprint: 44msuser_agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0
+language = en<br />color_depth = 24<br />pixel_ratio = 1<br />hardware_concurrency = 2<br />resolution = 1920,1200<br />available_resolution = 1920,1200<br />timezone_offset = -60<br />session_storage = 1<br />local_storage = 1<br />indexed_db = 1<br />cpu_class = unknown<br />navigator_platform = MacIntel<br />do_not_track = 1<br />regular_plugins = PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,Chrome PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,C<br />canvas = canvas winding:yes~canvas fp:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAADICAYAAACwGnoBAAAgAElEQVR4XuydeXwV1dnHn3OXbISEQFjCGnZkX0RcqIq1dtHWthb<br />webgl = data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAANXElEQVR4Xu2dXWhtRxXH9ySRPhRRH4pouWDBUqT4UUWpiJDoQxEFFRERBREVFBSRCgpVko2i0IcqKCgo<br />adblock = false<br />has_lied_languages = false<br />has_lied_resolution = false<br />has_lied_os = false<br />has_lied_browser = false<br />touch_support = 0,false,false<br />js_fonts = Andale Mono,Arial,Arial Black,Arial Hebrew,Arial Narrow,Arial Rounded MT Bold,Arial Unicode MS,Comic Sans MS,Courier,Courier New,Geneva,Georgia,Helvet<br />---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+Client browser fingerprint: 5b0aedea8e79bef9e0f2856917942601Time to calculate the fingerprint: 43msuser_agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0
+language = en<br />color_depth = 24<br />pixel_ratio = 1<br />hardware_concurrency = 2<br />resolution = 1920,1200<br />available_resolution = 1920,1200<br />timezone_offset = -60<br />session_storage = 1<br />local_storage = 1<br />indexed_db = 1<br />cpu_class = unknown<br />navigator_platform = MacIntel<br />do_not_track = 1<br />regular_plugins = PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,Chrome PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,C<br />canvas = canvas winding:yes~canvas fp:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAADICAYAAACwGnoBAAAgAElEQVR4XuydeXwV1dnHn3OXbISEQFjCGnZkX0RcqIq1dtHWthb<br />webgl = data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAANXElEQVR4Xu2dXWhtRxXH9ySRPhRRH4pouWDBUqT4UUWpiJDoQxEFFRERBREVFBSRCgpVko2i0IcqKCgo<br />adblock = false<br />has_lied_languages = false<br />has_lied_resolution = false<br />has_lied_os = false<br />has_lied_browser = false<br />touch_support = 0,false,false<br />js_fonts = Andale Mono,Arial,Arial Black,Arial Hebrew,Arial Narrow,Arial Rounded MT Bold,Arial Unicode MS,Comic Sans MS,Courier,Courier New,Geneva,Georgia,Helvet<br />---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+Client browser fingerprint: 5b0aedea8e79bef9e0f2856917942601Time to calculate the fingerprint: 42msuser_agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0
+language = en
+color_depth = 24
+pixel_ratio = 1
+hardware_concurrency = 2
+resolution = 1920,1200
+available_resolution = 1920,1200
+timezone_offset = -60
+session_storage = 1
+local_storage = 1
+indexed_db = 1
+cpu_class = unknown
+navigator_platform = MacIntel
+do_not_track = 1
+regular_plugins = PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,Chrome PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,C
+canvas = canvas winding:yes~canvas fp:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAADICAYAAACwGnoBAAAgAElEQVR4XuydeXwV1dnHn3OXbISEQFjCGnZkX0RcqIq1dtHWthb
+webgl = data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAANXElEQVR4Xu2dXWhtRxXH9ySRPhRRH4pouWDBUqT4UUWpiJDoQxEFFRERBREVFBSRCgpVko2i0IcqKCgo
+adblock = false
+has_lied_languages = false
+has_lied_resolution = false
+has_lied_os = false
+has_lied_browser = false
+touch_support = 0,false,false
+js_fonts = Andale Mono,Arial,Arial Black,Arial Hebrew,Arial Narrow,Arial Rounded MT Bold,Arial Unicode MS,Comic Sans MS,Courier,Courier New,Geneva,Georgia,Helvet
+---------------------------------
+
+Client IP Address: ::ffff:127.0.0.1. 
+Client browser fingerprint: 5b0aedea8e79bef9e0f2856917942601Time to calculate the fingerprint: 54msuser_agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0
+language = en
+color_depth = 24
+pixel_ratio = 1
+hardware_concurrency = 2
+resolution = 1920,1200
+available_resolution = 1920,1200
+timezone_offset = -60
+session_storage = 1
+local_storage = 1
+indexed_db = 1
+cpu_class = unknown
+navigator_platform = MacIntel
+do_not_track = 1
+regular_plugins = PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,Chrome PDF Viewer::Portable Document Format::application/pdf~pdf,text/pdf~pdf,C
+canvas = canvas winding:yes~canvas fp:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAADICAYAAACwGnoBAAAgAElEQVR4XuydeXwV1dnHn3OXbISEQFjCGnZkX0RcqIq1dtHWthb
+webgl = data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAANXElEQVR4Xu2dXWhtRxXH9ySRPhRRH4pouWDBUqT4UUWpiJDoQxEFFRERBREVFBSRCgpVko2i0IcqKCgo
+adblock = false
+has_lied_languages = false
+has_lied_resolution = false
+has_lied_os = false
+has_lied_browser = false
+touch_support = 0,false,false
+js_fonts = Andale Mono,Arial,Arial Black,Arial Hebrew,Arial Narrow,Arial Rounded MT Bold,Arial Unicode MS,Comic Sans MS,Courier,Courier New,Geneva,Georgia,Helvet
+---------------------------------
+

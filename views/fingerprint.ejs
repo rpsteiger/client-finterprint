@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <h1>Fingerprintjs2</h1>
+
+    <p>Your browser fingerprint: <strong id="fp"></strong></p>
+    <p><code id="time" /></p>
+    <p><span id="details" /></p>
+    <script src="static/fingerprint2.js"></script>
+    <script>
+      let d1 = new Date()
+      new Fingerprint2().get(function (result, components) {
+        const clientFp = `Client browser fingerprint: ${result}`
+        var d2 = new Date();
+        var timeString = "Time to calculate the fingerprint: " + (d2 - d1) + "ms";
+        let details = ""
+        for (var index in components) {
+          var obj = components[index];
+          var value = obj.value;
+          if (value !== null) {
+            var line = obj.key + " = " + value.toString().substr(0, 150);
+            details += line + "<br />";
+          }
+        }
+
+        const xmlHttp = new XMLHttpRequest()
+        xmlHttp.open("POST", "/fp-submit")
+        xmlHttp.setRequestHeader("Content-Type", "application/json")
+        const jsonData = JSON.stringify({data: `${clientFp}${timeString}${details}`})
+        console.log(jsonData)
+        xmlHttp.send(jsonData)
+      });
+    </script>
+  </body>
+</html>
